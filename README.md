@@ -18,13 +18,9 @@ Conteudo sendo revisto.
 
 <details>
 
-<summary>Tips for collapsed sections</summary>
+<summary>ISO downloader</summary>
 
-### You can add a header
-
-You can add text within a collapsed section.
-
-You can add an image or a code block, too.
+ISO downloader
 
 ```ruby
    puts "Hello World"
