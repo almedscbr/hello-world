@@ -94,6 +94,13 @@ kubectl apply -f https://raw.githubusercontent.com/dockur/windows/refs/heads/mas
     VERSION: "11"
   ```
 
+
+  Select from the values below:
+  
+  | **Value** | **Version**            | **Size** |
+  |---|---|---|
+
+  
   Select from the values below:
   
   | **Value** | **Version**            | **Size** |
